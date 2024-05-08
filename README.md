@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Oklikcream
-- 👀 I’m interested in computer games and Lego
-- 🌱 I’m currently learning python, c++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vanya.karpov.2005@gmail.com
 
 <!---
